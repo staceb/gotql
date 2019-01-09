@@ -389,7 +389,7 @@ const query = {
   }
 }
 ```
-
+--
 Outputs:
 
 ```js
