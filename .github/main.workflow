@@ -1,4 +1,4 @@
-workflow "Build and deploy" {
+workflow "Build and deploy -" {
   on = "push"
   resolves = ["Publish"]
 }
